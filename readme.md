@@ -26,11 +26,11 @@
 </div>
 
 <h2 align=left> 🎨 Layout </h2>
-<img alt="Tela SignIn" title="Tela SignIn" src="./assets/SignIn.png" width="70%">
-<img alt="Tela SignUp" title="Tela SignUp" src="./assets/SignUp.png" width="70%">
-<img alt="Tela Home" title="Tela Home" src="./assets/Home.png" width="70%">
-<img alt="Tela New" title="Tela New" src="./assets/New.png" width="70%">
-<img alt="Tela Details" title="Tela Details" src="./assets/Details.png" width="70%">
-<img alt="Tela Profile" title="Tela Profile" src="./assets/Profile.png" width="70%">
+<img alt="Tela SignIn" title="Tela SignIn" src="./assets/readme/SignIn.png" width="70%">
+<img alt="Tela SignUp" title="Tela SignUp" src="./assets/readme/SignUp.png" width="70%">
+<img alt="Tela Home" title="Tela Home" src="./assets/readme/Home.png" width="70%">
+<img alt="Tela New" title="Tela New" src="./assets/readme/New.png" width="70%">
+<img alt="Tela Details" title="Tela Details" src="./assets/readme/Details.png" width="70%">
+<img alt="Tela Profile" title="Tela Profile" src="./assets/readme/Profile.png" width="70%">
 
 
