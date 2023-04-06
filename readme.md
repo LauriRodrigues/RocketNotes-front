@@ -7,10 +7,6 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/RocketNotes-front?color=1280bf">
-
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/RocketNotes-front?color=1280bf">
-  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/RocketNotes-front?color=1280bf">
 </div>
 
